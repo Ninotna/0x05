@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "http-server": "^14.1.1",
-    "sass": "^1.75.0"
+    "sass": "^1.77.8"
   },
   "devDependencies": {
-    "cypress": "^13.7.3",
+    "cypress": "^13.13.0",
     "jest-environment-jsdom": "^29.7.0"
   }
 }
